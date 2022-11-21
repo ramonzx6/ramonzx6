@@ -6,7 +6,7 @@
 
 - 👀 Atualmente estou em busca de experiência profissional com as tecnologias **HTML, CSS, JavaScript**
 
-- 📚 No momento estou aprendendo as tecnologias **JavaScript, CSS, React.js, UI/UX Design**
+- 📚 No momento estou aprendendo e me aperfeiçoando em **JavaScript, CSS, React.js, UI/UX Design**
 
 - 📮 Me contate através de **ramonkjkk@outlook.com**
 
