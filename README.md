@@ -2,8 +2,6 @@
 <h3 align="center">Desenvolvedor front-end</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonzx6&label=Profile%20views&color=0e75b6&style=flat" alt="ramonzx6" /> </p>
-
 - 👀 Atualmente estou em busca de experiência profissional com as tecnologias **HTML, CSS, JavaScript**
 
 - 📚 No momento estou aprendendo e me aperfeiçoando em **JavaScript, CSS, React.js, UI/UX Design**
