@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">
 
-- 🧑🏻 Me chamo Ramon, tenho 19 anos e sou uma pessoa muito interessada por tecnologia. Tudo começou quando eu tinha 5 anos e meu primo me apresentou um jogo online no computador dele e após isso, fiquei bastante curioso sobre computador, jogos e tudo que envolve tecnologia e, felizmente, essa curiosidade vive até hoje. Meus hobbies são: jogar jogos, escutar música, ler livros, ver filmes (quase sempre de terror) e de vez em quando me perco vendo sites de periféricos.
+- 🧑🏻 Me chamo Ramon, tenho 19 anos e sou interessado por tecnologia. Meus hobbies são: jogar, escutar música e ver filmes (quase sempre de terror).
 
 - 📚 Sou um estudante de desenvolvimento de software e web. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade do Estado do Rio de Janeiro. Atualmente estou aperfeiçoando as tecnologias que domino e desenvolvendo projetos pessoais e um portfólio utilizando as tecnologias que conheço.
 
