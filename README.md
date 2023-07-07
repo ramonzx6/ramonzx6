@@ -4,7 +4,7 @@
 
 - 🧑🏻 I'm Ramon, a software developer based in Rio de Janeiro, Brazil.
 
-- 📚 I'm a software developer with knowledeges in software engineering, web development, design and informatic. I have worked in some projects of software development, websites development and web apps, both academic and personals. I'm interested in learning new things about technology!
+- 📚 I'm a software developer with knowledges in software engineering, web development, design and informatic. I have worked in some projects of software development, websites development and web apps, both academic and personals. I'm interested in learning new things about technology!
   
 - 📭 How to reach me: **ramonffdeoliveira@gmail.com**
 
