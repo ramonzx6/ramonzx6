@@ -1,12 +1,26 @@
-<h1 align="center">Hello, there!👋</h1>
+<h1 align="center">Hey, there!👋</h1>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">
+<!--<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">-->
 
-- 🧑🏻 I'm Ramon, a software developer based in Rio de Janeiro, Brazil.
+- 🧑🏻 I'm Ramon, a software developer based in Rio de Janeiro, Brazil
 
 - 📚 I'm a passionate software developer with a deep interest in software engineering principles and practices. I am always looking for new ways to improve my skills and knowledge. I also enjoy combining my academic interests with my personal interests, such as games and anime, to create innovative and engaging projects.
   
-- 📭 How to reach me: **ramonffdeoliveira@gmail.com** or in <a href="https://www.linkedin.com/in/ramonzx6/?locale=en_US">my LinkedIn</a>.
+- 📭 How to reach me: **ramonffdeoliveira@gmail.com** or message me in <a href="https://www.linkedin.com/in/ramonzx6/?locale=en_US">my LinkedIn</a>.
 
-<h3 align="left">Languages and technologies:</h3>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> </a> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</br><h3 align="left">
+<details open>
+  <summary>Languages and technologies:</summary>
+<div style="display: inline_block"></br>
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</div>
+</details>
+</h3>
