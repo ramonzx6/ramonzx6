@@ -4,7 +4,7 @@
 
 - 🧑🏻 I'm Ramon, a software developer based in Rio de Janeiro, Brazil
 
-- 📚 I'm a passionate software developer with a deep interest in software engineering principles and practices. I am always looking for new ways to improve my skills and knowledge. I also enjoy combining my academic interests with my personal interests, such as games and anime, to create innovative and engaging projects.
+- 📚 I'm a passionate software developer with a deep interest in software engineering principles and practices. I am always looking for new ways to improve my skills and knowledge.
   
 - 📭 How to reach me: **ramonffdeoliveira@gmail.com** or message me in <a href="https://www.linkedin.com/in/ramonzx6/?locale=en_US">my LinkedIn</a>.
 
