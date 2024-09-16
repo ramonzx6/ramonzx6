@@ -31,7 +31,7 @@
 ## contact me
 
 <a href="https://ramonoliveira.xyz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ramonffdeoliveira@gmail.com"><img src="imgs/badge-mail.png"/></a>
+<!-- <a href="mailto:ramonffdeoliveira@gmail.com"><img src="imgs/badge-mail.png"/></a> -->
 
 <br>
 <!--
