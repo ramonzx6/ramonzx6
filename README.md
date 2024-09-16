@@ -1,13 +1,40 @@
-<h1 align="center">Hey, there!👋</h1>
+<div align="center">
+<!--
+<img width="400" src="https://media1.tenor.com/m/HY705fid3JIAAAAC/pokemon-mew.gif"/>
+<img width="400" src="https://i.gifer.com/Td9n.gif"/>
+-->
+</div>
+
+<h1 align="center">hey, there! 👋</h1>
 
 <!--<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">-->
 
-- 🧑🏻 I'm Ramon, a software developer based in Rio de Janeiro, Brazil
+<h3 align="center"> I'm Ramon, a software developer based in Rio de Janeiro, Brazil</h3>
+<br>
+<br>
 
-- 📚 I'm a passionate software developer with a deep interest in software engineering principles and practices. I am always looking for new ways to improve my skills and knowledge.
-  
-- 📭 How to reach me: **ramonffdeoliveira@gmail.com** or message me in <a href="https://www.linkedin.com/in/ramonzx6/?locale=en_US">my LinkedIn</a>.
 
+## about me
+
+📖 Currently, i'm pursuing a degree in Systems Analysis and Development at the Rio de Janeiro State University.
+
+💭 I'm really into fantasy-related things, such as MMORPG games, Lord of the Rings, etc.
+
+<br>
+
+## technologies
+
+🔎 I have a deep interest in Software Engineering, Software Architecture and DevOps. Feel free to hit me up about any of these topics!
+
+<br>
+
+## contact me
+
+<a href="https://ramonoliveira.xyz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+## 
+
+<!--
 </br><h3 align="left">
 <details open>
   <summary>Languages:</summary>
@@ -31,3 +58,4 @@
 </div>
 </details>
 </h3>
+-->
