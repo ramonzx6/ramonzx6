@@ -16,7 +16,7 @@
 
 ## about me
 
-📖 Currently, i'm pursuing a degree in Systems Analysis and Development at the Rio de Janeiro State University.
+📖 Currently, I'm pursuing a degree in Systems Analysis and Development at the Rio de Janeiro State University.
 
 💭 I'm really into fantasy-related things, such as books, movies, MMORPG games, etc.
 
